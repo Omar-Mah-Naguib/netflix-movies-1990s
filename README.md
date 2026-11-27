@@ -23,4 +23,4 @@ In JupyterLab, choose **Run → Run All Cells**. Keep `netflix_data.csv` next to
 
 ## Data source
 
-`netflix_data.csv` is the 4,812-record dataset supplied with DataCamp's [Investigating Netflix Movies](https://www.datacamp.com/projects/1674) guided project. The source archive did not include a separate dataset license. The results describe the supplied sample.
+`netflix_data.csv` is the 4,812-record dataset supplied with DataCamp's [Investigating Netflix Movies](https://www.datacamp.com/projects/1674) guided project.
